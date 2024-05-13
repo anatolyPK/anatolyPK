@@ -17,11 +17,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+<!--
 
 [![codewars](https://www.codewars.com/users/Anatoly_253/badges/large)](https://www.codewars.com/users/Anatoly_253)   
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Anatoly253&theme=dark)](https://github.com/Anatoly253/leetcode-stats)
 
-<!--
 **anatolyPK/anatolyPK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
